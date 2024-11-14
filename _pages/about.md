@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>734 8348703</p>
-    <p>2337 Erie Dr</p>
+    <p></p>
+    <p></p>
     <p>Ann Arbor, MI 48105</p>
 
 news: true # includes a list of news items
