@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  "Experiences": [
     {
       "name": "University of Waterloo",
       "position": "Research Intern",
@@ -30,12 +30,25 @@
     },
     {
       "name": "Horizon Robotics",
-      "position": "Intern",
+      "position": "Robot Engineer Intern",
       "startDate": "2022-05-01",
       "endDate": "2022-08-01"
     }
   ],
-  "volunteer": [""],
+  "Services": [
+    {
+      "Volunteer": "ICRA 2024",
+      "position": "Yokohama, Japan"
+    },
+    {
+      "Volunteer": "IROS 2023",
+      "position": "Detroit, USA"
+    },
+    {
+      "Reviewer": "IROS 2024",
+      "position": "Abu Dhabi ,UAE"
+    }
+  ],
   "education": [
     {
       "institution": "University of Michigan, Ann Arbor",
