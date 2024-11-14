@@ -40,11 +40,11 @@
       "location": "Ann Arbor",
       "url": "",
       "area": "Electrical and Computer Engineering (Robotics)",
-      "studyType": "Master of Science",
+      "studyType": "MSE",
       "startDate": "2022",
       "endDate": "2024",
       "score": "",
-      "courses": ["Deep Learning Robot Perception, Mobile Robotics, Robot Kinematics&Dynamics, Self Driving Cars: Perception&Control,Programming for Robotics, Linear Feedback Control, Nonlinear System&Control"]
+      "courses": ["*Deep Learning Robot Perception, Mobile Robotics, Robot Kinematics & Dynamics, Self Driving Cars: Perception & Control, Programming for Robotics, Linear Feedback Control, Nonlinear System&Control, and etc.*"]
     },
     {
       "institution": "University of Liverpool",
@@ -54,7 +54,7 @@
       "studyType": "BEng",
       "startDate": "2018",
       "endDate": "2022",
-      "score": "",
+      "score": "First Class with Honors",
       "courses": [""]
     }
   ],
