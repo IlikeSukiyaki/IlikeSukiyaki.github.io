@@ -91,7 +91,6 @@
       "summary": ""
     }
   ],
-
   "skills": [
     {
       "name": "Robot Simulation",
@@ -101,6 +100,16 @@
         "Pybullet",
         "Isaac Sim",
         "Gazebo"
+      ]
+    },
+    {
+      "name": "Robot Learning",
+      "level": "Confident",
+      "keywords": [
+        "Imitation Learning",
+        "MPC",
+        "Reinforcement Learning",
+        "Perception"
       ]
     }
   ],
