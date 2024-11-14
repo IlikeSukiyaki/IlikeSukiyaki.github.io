@@ -58,7 +58,7 @@
         "Optimized selection of images for labeling from large unlabelled pool.",
         "42% improvement in mean average precision between models."
       ]
-    },
+    }
   ],
   "volunteer": [""],
   "education": [
