@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>University of Michigan, Ann Arbor</a>.
+subtitle: [University of Michigan, Ann Arbor](https://umich.edu)
 
 profile:
   align: right
@@ -18,5 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Thanks for stopiing by my website! I am a Master's student from University of Michigan, Ann Arbor, studying at [Robotics Institute]([https://robotics.umich.edu/]). I am interested in robotic manipulator, RL/Control.
-
+Thanks for stopping by my website! I am a Master's student from the [University of Michigan, Ann Arbor](https://umich.edu), studying at the [Robotics Institute](https://robotics.umich.edu/). I am interested in robotic manipulation, reinforcement learning (RL), and control.
