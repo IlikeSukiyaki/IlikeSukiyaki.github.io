@@ -2,7 +2,7 @@
 layout: about
 title: "About"
 permalink: "/"
-subtitle: "[University of Michigan, Ann Arbor](https://umich.edu)"
+subtitle: "University of Michigan, Ann Arbor"
 
 profile:
   align: right
