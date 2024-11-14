@@ -36,26 +36,25 @@
 
   "education": [
     {
-      "institution": "University of Michigan",
+      "institution": "Master of Science in Electrical and Computer Engineering",
       "location": "Ann Arbor",
       "url": "",
-      "area": "Electrical and Computer Engineering (Robotics)",
-      "studyType": "MSE",
+      "area": ,
+      "studyType": "University of Michigan, Ann Arbor",
       "startDate": "2022",
       "endDate": "2024",
-      "score": "",
-      "courses": ["*Deep Learning Robot Perception, Mobile Robotics, Robot Kinematics & Dynamics, Self Driving Cars: Perception & Control, Programming for Robotics, Linear Feedback Control, Nonlinear System&Control, and etc.*"]
-    },
+      "score": "4.000/4.000",
+      "courses": [},
     {
-      "institution": "University of Liverpool",
+      "institution": "BEng in Electrical Engineering",
       "location": "Liverpool",
       "url": "",
-      "area": "Electrical Engineering",
-      "studyType": "BEng",
+      "area": "First Class with Honors",
+      "studyType": "University of Liverpool",
       "startDate": "2018",
       "endDate": "2022",
-      "score": "First Class with Honors",
-      "courses": [""]
+      "score": "3.95/4.00",
+      "courses": []
     }
   ],
   "awards": [
