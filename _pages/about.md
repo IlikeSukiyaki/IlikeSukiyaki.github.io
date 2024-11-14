@@ -1,14 +1,14 @@
 ---
 layout: about
-title: About
-permalink: /
-subtitle: [University of Michigan, Ann Arbor](https://umich.edu)
+title: "About"
+permalink: "/"
+subtitle: "[University of Michigan, Ann Arbor](https://umich.edu)"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p></p>
     <p></p>
     <p>Ann Arbor, MI 48105</p>
