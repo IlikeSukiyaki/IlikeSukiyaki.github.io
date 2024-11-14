@@ -1,156 +1,65 @@
 {
   "basics": {
     "name": "Yifeng Xu",
-    "label": "Master's Student in Robotics",
+    "label": "Master's Student at University of Michigan",
     "image": "",
     "email": "yifengxu@umich.edu",
-    "phone": "+1 734 834 8703",
-    "url": "https://github.com/likeSukiyaki",
-    "summary": "Master's student in Robotics at the University of Michigan, Ann Arbor. Interested in robotic manipulation, reinforcement learning, and control.",
+    "phone": "(+86) 19979711220",
+    "url": "https://ilikesukiyaki.github.io/cv/",
+    "summary": "Master's student with a concentration on robotics, interested in manipulation, robot simulation, imitation learning",
     "location": {
       "address": "2337 Erie Dr",
-      "postalCode": "48105",
+      "postalCode": "MI 48105",
       "city": "Ann Arbor",
       "countryCode": "US",
       "region": "Michigan"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Yifeng Xu",
+        "url": "https://ilikesukiyaki.github.io/"
+      }
+    ]
   },
-  "education": [
-    {
-      "institution": "University of Michigan, Ann Arbor",
-      "studyType": "Master of Science in Robotics",
-      "startDate": "2022-09",
-      "endDate": "2024-06",
-      "score": "4.00/4.00",
-      "location": "Ann Arbor, United States"
-    },
-    {
-      "institution": "University of Liverpool",
-      "studyType": "BEng in Electrical Engineering",
-      "startDate": "2020-09",
-      "endDate": "2022-05",
-      "score": "3.95/4.00, First Class with Honors",
-      "location": "Liverpool, United Kingdom"
-    },
-    {
-      "institution": "Xi’an Jiaotong-Liverpool University",
-      "studyType": "BEng in Electrical Engineering",
-      "startDate": "2018-09",
-      "endDate": "2022-05",
-      "score": "3.95/4.00",
-      "location": "Suzhou, China"
-    },
-  ],
   "work": [
     {
-      "name": "Vision and Image Processing Lab",
-      "position": "Research Assistant",
-      "startDate": "2024-06",
-      "endDate": "Present",
-      "location": "University of Waterloo",
-      "highlights": [
-        "Leveraged vision foundation models, Depth-PR, and Depth Anything to generate metric and relative depth images.",
-        "Used Segment Anything to assign semantic information for primitive geometry estimation.",
-        "Trained a PointNet AutoEncoder to encode partially observed point clouds into latent features.",
-        "Planned to use Isaac Sim for graspability-aware robotic grasping under single-camera view."
-      ]
-    },
-    {
-      "name": "Hybrid Dynamics Robotics Lab",
-      "position": "Research Assistant",
-      "startDate": "2023-05",
-      "endDate": "2024-05",
-      "location": "University of Michigan, Ann Arbor",
-      "highlights": [
-        "Designed a three-bar tensegrity robot and simulated locomotion using MuJoCo physics engine.",
-        "Built and tested state machines on robots for various locomotion, including rolling, crawling, and turning."
-      ]
-    },
-  ],
-  "volunteer": [],
-  "projects": [
-    {
-      "name": "Learning Latent Dynamics for Robotic Pushing Task",
-      "startDate": "2024-01",
-      "endDate": "",
-      "description": "Developed a Variational Autoencoder (VAE) to learn latent dynamics for robotic pushing tasks using PyBullet and PyTorch.",
-      "highlights": [
-        "Generated trajectories from demonstrations and trained VAE to predict future actions and states.",
-        "Achieved 85% success rate for robotic pushing task and obstacle avoidance."
-      ]
-    },
-    {
-      "name": "Customizable Scene Synthesis for Robust Visual Odometry",
-      "startDate": "2023-05",
-      "endDate": "",
-      "description": "Implemented a CNN-based monocular visual odometry for autonomous driving in challenging conditions.",
-      "highlights": [
-        "Applied instance-level segmentation and LaMa inpainting to remove dynamic objects.",
-        "Tested on KITTI dataset with robust performance."
-      ]
-    },
-    {
-      "name": "6-DOF Pose Estimation based on PoseCNN",
-      "startDate": "2024-01",
-      "endDate": "",
-      "description": "Developed a convolutional neural network for 6D object pose estimation in cluttered scenes using PyTorch.",
-      "highlights": [
-        "Achieved state-of-the-art pose estimation on PROPS Pose dataset."
-      ]
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Advanced",
-      "keywords": ["Python", "PyTorch", "C++", "MATLAB", "Wolfram Mathematica", "ROS/ROS2", "LaTeX", "CSS/HTML"]
-    },
-    {
-      "name": "Software Tools",
-      "keywords": ["VS Studio", "CMake", "Docker", "Linux", "Gazebo", "Git", "OpenCV", "Numpy"]
-    },
-    {
-      "name": "Hardware Tools",
-      "keywords": ["Dynamixel Motor", "Solidworks", "OnShape", "Raspberry Pi", "NVIDIA Jetson", "Arduino", "Vicon MoCap"]
-    }
+
   ],
-  "languages": [
+  "education": [
     {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker"
+      "institution": "University of Michigan",
+      "location": "Ann Arbor",
+      "url": "",
+      "area": "Master of Science in Electrical and Computer Engineering (Robotics)",
+      "studyType": "",
+      "startDate": "2022",
+      "endDate": "2024",
+      "score": "",
+      "courses": ["Deep Learning Robot Perception, Mobile Robotics, Robot Kinematics&Dynamics, Self Driving Cars: Perception&Control,Programming for Robotics, Linear Feedback Control, Nonlinear System&Control"]
     }
   ],
   "awards": [
     {
-      "title": "ICRA 2024 Volunteer Service",
-      "date": "2024",
-      "awarder": "Yokohama, Japan"
-    },
-    {
-      "title": "IROS 2023 Volunteer Service",
-      "date": "2023",
-      "awarder": "Detroit, USA"
-    },
-    {
-      "title": "Provincial Outstanding Cadre",
-      "date": "2018-2022",
-      "awarder": "Jiangsu Province, China",
-      "summary": "Top 0.1%"
-    },
-    {
       "title": "Academic Excellence Scholarship",
-      "date": "2018-2022",
-      "awarder": "Xi’an Jiaotong-Liverpool University"
-    },
-    {
-      "title": "Merit Student Cadre",
       "date": "2018-2022",
       "awarder": "Xi’an Jiaotong-Liverpool University"
     }
   ]
+
+
+
+
+
+
+
 }
