@@ -24,40 +24,15 @@
   },
   "work": [
     {
-      "name": "NVIDIA",
-      "position": "Computer Vision Intern",
-      "startDate": "2021-05-01",
-      "endDate": "2021-08-01",
-      "summary": "Incorporated synthetic data for training lane detection models.",
-      "highlights": [
-        "Developed data pipeline and experimented with synthetic data incorporation.",
-        "Resolved critical failure scenarios blocking PathNetV4 release.",
-        "Developed tools to better visualize and identify challenging scenarios."
-      ]
+      "name": "University of Waterloo",
+      "position": "Research Intern",
+      "startDate": "2024-07-01"
     },
     {
-      "name": "NVIDIA",
-      "position": "Computer Vision Intern",
-      "startDate": "2020-05-01",
-      "endDate": "2020-08-01",
-      "summary": "Time series light signal detection for autonomous vehicles.",
-      "highlights": [
-        "Detection of blinking light signals.",
-        "Defined labelling guidelines and potential model architectures.",
-        "Trained proof of concept classification network using public data."
-      ]
-    },
-    {
-      "name": "Miovision",
-      "position": "Computer Vision Intern",
-      "startDate": "2019-09-01",
-      "endDate": "2019-12-01",
-      "summary": "Traffic data analysis with computer vision.",
-      "highlights": [
-        "Led project to introduce active learning techniques to data ingest pipeline.",
-        "Optimized selection of images for labeling from large unlabelled pool.",
-        "42% improvement in mean average precision between models."
-      ]
+      "name": "Horizon Robotics",
+      "position": "Intern",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-01"
     }
   ],
   "volunteer": [""],
