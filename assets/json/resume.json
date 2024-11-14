@@ -90,9 +90,9 @@
     }
   ],
   "volunteer": [],
-  "education":
+  "education": [
     {
-      "institution": "University of Waterloo",
+      "institution": "University of Michigan, Ann Arbor",
       "url": "",
       "area": "Robotics",
       "studyType": "MSE in Electrical and Computer Engineering",
