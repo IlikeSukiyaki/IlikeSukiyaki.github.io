@@ -6,7 +6,7 @@ subtitle: "<strong>Master's student</strong> at University of Michigan, Ann Arbo
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yifeng.JPG
   image_circular: false # crops the image to make it circular
   more_info: |
     <p></p>
