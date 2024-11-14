@@ -35,19 +35,7 @@
       "endDate": "2022-08-01"
     }
   ],
-  "Services": [
-    {
-      "Volunteer": "ICRA 2024",
-      "position": "Yokohama, Japan"
-    },
-    {
-      "Volunteer": "IROS 2023",
-      "position": "Detroit, USA"
-    },
-    {
-      "Reviewer": "IROS 2024",
-      "position": "Abu Dhabi ,UAE"
-    }
+  "Services": ["ICRA 2024 Yokohama, Volunteer", "IROS 2023 Detroit, Volunteer", "IROS 2024 Abu Dhabi, Reviewer"
   ],
   "education": [
     {
