@@ -59,37 +59,8 @@
         "42% improvement in mean average precision between models."
       ]
     },
-    {
-      "name": "Synapse Technology",
-      "position": "Computer Vision Intern",
-      "startDate": "2019-01-01",
-      "endDate": "2019-04-01",
-      "summary": "Developed and analyzed CNN models for detecting threats in security x-ray scans.",
-      "highlights": [
-        "Developed fine grain rotational data augmentation method.",
-        "Significantly improved model performance in underrepresented classes."
-      ]
-    },
-    {
-      "name": "Praemo",
-      "position": "Data Scientist",
-      "startDate": "2018-05-01",
-      "endDate": "2018-08-01",
-      "summary": "Used LSTM to detect anomalies in time series vibration data and predict machine failure in industrial robots.",
-      "highlights": []
-    },
-    {
-      "name": "ESI",
-      "position": "Robotics Software Developer",
-      "startDate": "2017-09-01",
-      "endDate": "2017-12-01",
-      "summary": "Robotic navigation using reinforcement learning and IR sensors.",
-      "highlights": [
-        "95% success rate in simulation and 85% success rate on physical robot."
-      ]
-    }
   ],
-  "volunteer": [],
+  "volunteer": [""],
   "education": [
     {
       "institution": "University of Michigan, Ann Arbor",
@@ -114,9 +85,21 @@
   ],
   "awards": [
     {
-      "title": "Finalist at 2022 IEEE International Conference on Automation Science and Engineering",
-      "date": "2022",
-      "awarder": "IEEE",
+      "title": "Academic Excellence Award (5%)",
+      "date": "2018-2019",
+      "awarder": "Xi'an Jiaotong-Liverpool University",
+      "summary": ""
+    }
+    {
+      "title": "Academic Excellence Award (5%)",
+      "date": "2019-2020",
+      "awarder": "Xi'an Jiaotong-Liverpool University",
+      "summary": ""
+    }
+    {
+      "title": "Academic Achievement Award (10%)",
+      "date": "2020-2021",
+      "awarder": "Xi'an Jiaotong-Liverpool University",
       "summary": ""
     }
   ],
@@ -135,16 +118,20 @@
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Mandarin",
       "fluency": "Native speaker"
+    }
+    {
+      "language": "English",
+      "fluency": "Working Proficiency"
     }
   ],
   "projects": [
     {
-      "name": "AUTOREAD",
-      "startDate": "2021-04",
-      "endDate": "2021-04",
-      "description": "Text to speech model for fiction novels trained using automatically labeled audiobook dataset.",
+      "name": "Learning Latent Dynamics for Robotic Pushing Task",
+      "startDate": "2024-01",
+      "endDate": "2024-04",
+      "description": "Implemented a Variational Autoencoder (VAE) to learn latent dynamics for predicting future states in a robotic pushing environment",
       "highlights": [],
       "url": "https://autoread-fydp.github.io/"
     }
