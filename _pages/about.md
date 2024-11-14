@@ -2,7 +2,7 @@
 layout: about
 title: "About"
 permalink: "/"
-subtitle: "University of Michigan, Ann Arbor"
+subtitle: "<strong>Master's student</strong> at University of Michigan, Ann Arbor"
 
 profile:
   align: right
