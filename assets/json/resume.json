@@ -35,13 +35,11 @@
       "endDate": "2022-08-01"
     }
   ],
-  "Services": ["ICRA 2024 Yokohama, Volunteer", "IROS 2023 Detroit, Volunteer", "IROS 2024 Abu Dhabi, Reviewer"
-  ],
   "education": [
     {
       "institution": "University of Michigan, Ann Arbor",
       "url": "",
-      "area": "Robotics",
+      "area": "<strong>GPA:4.000/4.000</strong>",
       "studyType": "MSE in Electrical and Computer Engineering",
       "startDate": "2022",
       "endDate": "2024",
@@ -51,7 +49,7 @@
     {
       "institution": "University of Liverpool",
       "url": "",
-      "area": "First Class with Honors",
+      "area": "<strong>First Class with Honors</strong>",
       "studyType": "BEng in Electrical Engineering",
       "startDate": "2018",
       "endDate": "2022",
@@ -62,19 +60,19 @@
   "awards": [
     {
       "title": "Academic Excellence Award (5%)",
-      "date": "2018-2019",
+      "date": "2019",
       "awarder": "Xi'an Jiaotong-Liverpool University",
       "summary": ""
     },
     {
       "title": "Academic Excellence Award (5%)",
-      "date": "2019-2020",
+      "date": "2020",
       "awarder": "Xi'an Jiaotong-Liverpool University",
       "summary": ""
     },
     {
       "title": "Academic Achievement Award (10%)",
-      "date": "2020-2021",
+      "date": "2021",
       "awarder": "Xi'an Jiaotong-Liverpool University",
       "summary": ""
     }
@@ -114,8 +112,7 @@
   "projects": [
     {
       "name": "Learning Latent Dynamics for Robotic Pushing Task",
-      "startDate": "2024-01",
-      "endDate": "2024-04",
+      "startDate": "2024",
       "description": "Implemented a Variational Autoencoder (VAE) to learn latent dynamics for predicting future states in a robotic pushing environment",
       "highlights": [],
       "url": "https://autoread-fydp.github.io/"
