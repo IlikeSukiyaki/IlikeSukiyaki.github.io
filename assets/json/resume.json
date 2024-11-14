@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Yifeng Xu",
-    "label": "Master's Student at University of Michigan",
+    "label": "Robotics Enthusiast",
     "image": "",
     "email": "yifengxu@umich.edu",
     "phone": "(+86) 19979711220",
@@ -39,12 +39,23 @@
       "institution": "University of Michigan",
       "location": "Ann Arbor",
       "url": "",
-      "area": "Master of Science in Electrical and Computer Engineering (Robotics)",
-      "studyType": "",
+      "area": "Electrical and Computer Engineering (Robotics)",
+      "studyType": "Master of Science",
       "startDate": "2022",
       "endDate": "2024",
       "score": "",
       "courses": ["Deep Learning Robot Perception, Mobile Robotics, Robot Kinematics&Dynamics, Self Driving Cars: Perception&Control,Programming for Robotics, Linear Feedback Control, Nonlinear System&Control"]
+    },
+    {
+      "institution": "University of Liverpool",
+      "location": "Liverpool",
+      "url": "",
+      "area": "Electrical Engineering",
+      "studyType": "BEng",
+      "startDate": "2018",
+      "endDate": "2022",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
