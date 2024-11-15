@@ -1,11 +1,11 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: Robust Visual Odometry under Adverse Condition
+img: assets/img/UMDrive.png
 importance: 2
 category: work
-giscus_comments: true
+redirect: assets/pdf/ROB_530_Final_Project_Report.pdf
 ---
 
 Every project has a beautiful feature showcase page.
