@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Learning Latent Dynamics for Robotic Pushing Task
 description: with background image
 img: assets/img/learning_latent_dynamics.gif
 importance: 1
