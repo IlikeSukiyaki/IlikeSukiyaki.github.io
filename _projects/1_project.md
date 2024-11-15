@@ -5,7 +5,7 @@ description: with background image
 img: assets/img/learning_latent_dynamics.gif
 importance: 1
 category: work
-related_publications: true
+redirect: https://ilikesukiyaki.github.io/cv/
 ---
 
 Every project has a beautiful feature showcase page.
