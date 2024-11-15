@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: project Robust Visual Odometry under Adverse Condition
 description: Robust Visual Odometry under Adverse Condition
 img: assets/img/UMDrive.png
 importance: 2
