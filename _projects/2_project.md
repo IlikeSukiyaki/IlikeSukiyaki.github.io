@@ -5,7 +5,7 @@ description: Robust Visual Odometry under Adverse Condition
 img: assets/img/UMDrive.png
 importance: 2
 category: work
-redirect: assets/pdf/ROB_530_Final_Project_Report.pdf
+redirect: /assets/pdf/ROB_530_Final_Project_Report.pdf
 ---
 
 Every project has a beautiful feature showcase page.
