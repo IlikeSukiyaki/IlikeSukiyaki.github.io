@@ -5,7 +5,7 @@ description: with background image
 img: assets/img/learning_latent_dynamics.gif
 importance: 1
 category: work
-redirect: [https://github.com/IlikeSukiyaki/Learning-Latent-Dynamics-for-Robotic-Pushing-Task]
+redirect: https://github.com/IlikeSukiyaki/Learning-Latent-Dynamics-for-Robotic-Pushing-Task
 ---
 
 Every project has a beautiful feature showcase page.
