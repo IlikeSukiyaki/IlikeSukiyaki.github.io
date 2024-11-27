@@ -5,7 +5,7 @@ description: Control design for the Reactive Ion Etching (RIE) process using lin
 img: assets/img/MIMO_output.png
 importance: 3
 category: work
-redirect: assets/pdf/MIMO_Controller.pdf
+redirect: /assets/pdf/MIMO_Controller.pdf
 ---
 
 Every project has a beautiful feature showcase page.
