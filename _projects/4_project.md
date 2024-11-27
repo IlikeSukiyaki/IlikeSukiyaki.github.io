@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Multivariable Feedback Controller Design
-description: Control design for the Reactive Ion Etching (RIE) process using linear quadratic regulator and loop
-transfer recovery
+description: Control design for the Reactive Ion Etching (RIE) process using linear quadratic regulator and loop transfer recovery
 img: assets/img/MIMO_output.png
 importance: 3
 category: work
