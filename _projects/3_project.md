@@ -3,7 +3,7 @@ layout: page
 title: 6D Pose Estimation under Sensory Disturbance via PoseCNN
 description: A implementation of PoseCNN for 6D pose estimation and the corresponding evaluation under noise
 img: assets/img/PoseCNN_under_noise.png
-redirect: https://unsplash.com
+redirect: https://github.com/IlikeSukiyaki/PoseCNN_pytorch
 importance: 3
 category: work
 ---
