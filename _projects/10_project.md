@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Learning Latent Dynamics for Robotic Pushing Task
-description: with background image
-img: assets/img/learning_latent_dynamics.gif
+title: RRT Collision-Free Path Planning for Robotic Grasping 
+description: This project provides a MuJoCo simulation environment for a robotic arm designed to generate trajectories for grasping objects within a predefined scene.
+img: assets/img/RRT_Grasp.png
 importance: 1
-category: work
+category: fun
 redirect: https://github.com/IlikeSukiyaki/Learning-Latent-Dynamics-for-Robotic-Pushing-Task
 ---
 
