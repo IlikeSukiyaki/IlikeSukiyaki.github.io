@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: RRT Collision-Free Path Planning for Robotic Grasping 
+description: This project provides a MuJoCo simulation environment for a robotic arm designed to generate trajectories for grasping objects within a predefined scene.
+img: assets/img/RRT_Grasp.png
 importance: 3
 category: fun
+redirect: https://github.com/IlikeSukiyaki/Learning-Latent-Dynamics-for-Robotic-Pushing-Task
 ---
 
 Every project has a beautiful feature showcase page.
