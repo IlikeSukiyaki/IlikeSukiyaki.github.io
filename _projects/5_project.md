@@ -5,7 +5,7 @@ description: This project provides a MuJoCo simulation environment for a robotic
 img: assets/img/RRT_grasp2.png
 importance: 3
 category: fun
-redirect: https://github.com/IlikeSukiyaki/Learning-Latent-Dynamics-for-Robotic-Pushing-Task
+redirect: https://github.com/IlikeSukiyaki/RRT_Grasping_Path_Plannar_MuJoCo
 ---
 
 Every project has a beautiful feature showcase page.
