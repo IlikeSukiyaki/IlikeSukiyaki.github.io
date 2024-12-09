@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning Latent Dynamics for Robotic Pushing Task
-description: with background image
+description: Use VAE to learn latent dynamics to control and plan a Franka Robot
 img: assets/img/learning_latent_dynamics.gif
 importance: 1
 category: work
