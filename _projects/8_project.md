@@ -5,6 +5,7 @@ description: Design of nonlinear controller and observer for balancing an invert
 img: assets/img/nonlinear.png
 importance: 5
 category: work
+redirect: /assets/pdf/nonlinear.pdf
 giscus_comments: true
 ---
 
