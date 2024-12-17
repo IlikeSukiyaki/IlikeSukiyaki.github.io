@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
+title: project Nonlinear Controller Design for Balancing Cart Pole
+description: Design of nonlinear controller and observer for balancing an inverted pendulum on a cart pole
+img: assets/img/nonlinear.png
+importance: 5
 category: work
 giscus_comments: true
 ---
