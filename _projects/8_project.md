@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Nonlinear Control for Cart Pole
+title: Nonlinear Controller Design for Cart Pole
 description: Design of nonlinear controller and observer for balancing an inverted pendulum on a cart pole
 img: assets/img/nonlinear.png
 importance: 5
 category: work
-redirect: /assets/pdf/nonlinear.pdf
+redirect: /assets/pdf/yifeng-nonlinear-system.pdf
 giscus_comments: true
 ---
 
